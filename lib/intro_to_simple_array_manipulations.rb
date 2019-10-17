@@ -29,3 +29,7 @@ end
 def using_insert(array, new_item)
   array.insert(4, new_item)
 end
+
+def using_uniq(array)
+  array.uniq
+end
