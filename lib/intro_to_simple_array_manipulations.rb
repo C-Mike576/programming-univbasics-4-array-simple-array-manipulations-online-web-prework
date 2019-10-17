@@ -24,3 +24,4 @@ end
 
 def using_concat(item1, item2)
   item1 + item2
+end
