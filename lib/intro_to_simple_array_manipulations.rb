@@ -43,7 +43,7 @@ def using_delete(array, remove_item)
 end
 
 def using_delete_at(array, index)
-  array.pop(index)
+  array.delete
 end
 
 
